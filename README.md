@@ -1,5 +1,5 @@
 # About Me:
-Hello, this is junior software engineer.<br><br>My current stack: ExpressJs, NextJs, TS, Prisma ORM, TailwindCSS
+Hello, this is software engineer.<br><br>My current stack: NextJS, tRPC, TailwindCSS, Prisma
 
 
 ## Socials:
